@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benjadpb
 - 👀 I’m interested in development and data analysis
-- 🌱 I’m currently learning how to do the things above lol
+- 🌱 I’m currently learning javascript and java and participating on the "Reset" process for the CWI company
 
 
 <!---
